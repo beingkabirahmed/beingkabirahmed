@@ -14,11 +14,25 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6366f1?style=for-the-badge\&logo=vercel\&logoColor=white)](https://beingkabirahmed.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kabir%20Ahmed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/beingkabirahmed)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:beingkabirahmed@gmail.com)
+<a href="https://beingkabirahmed.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/beingkabirahmed">
+  <img src="https://img.shields.io/badge/LinkedIn-Kabir%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:beingkabirahmed@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beingkabirahmed&label=Profile%20Views&color=6366f1&style=flat"/>
+</p>
 
 ---
 
@@ -36,18 +50,18 @@ kabir = {
 
 I’m not just learning Data Science — I’m **building systems that solve real problems**.
 
-* 🧠 Specialized in **ML + EDA + Data Storytelling**
+* 🧠 Strong in **EDA, ML & Data Storytelling**
 * 🤖 Building **LLM-powered healthcare systems**
-* 📊 Delivering insights that **non-tech people can actually use**
+* 📊 Turning raw data into **business insights**
 * 💼 Data Science Intern @ Nexus Core Innovation
 
 ---
 
 # 🚀 What Makes Me Different
 
-🔥 Most people build models. I build **solutions.**
-🔥 Most people show code. I show **impact.**
-🔥 Most people learn AI. I **apply it to healthcare.**
+🔥 I don’t just build models — I build **solutions**
+🔥 I don’t just show code — I show **impact**
+🔥 I don’t just learn AI — I **apply it to healthcare**
 
 ---
 
@@ -55,52 +69,55 @@ I’m not just learning Data Science — I’m **building systems that solve rea
 
 <div align="center">
 
-### 🧪 Data Science
+**Languages & Libraries**
+Python • SQL • JavaScript • HTML • CSS
 
-Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seaborn
+**Data Science & ML**
+Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seaborn
 
-### 🤖 AI & GenAI
+**AI & GenAI**
+LLMs • Prompt Engineering • ChatGPT APIs
 
-LLMs • Prompt Engineering • ChatGPT APIs • Claude • Perplexity
-
-### 📊 Analytics & BI
-
-Power BI • Tableau • Excel • SQL
-
-### ⚙️ Tools
-
-Git • GitHub • Jupyter • VS Code • Google Colab
+**BI & Tools**
+Power BI • Tableau • Git • GitHub • Jupyter • VS Code
 
 </div>
 
 ---
 
-# 🌟 Featured Work (Real Impact Projects)
+# 🌟 Featured Projects
 
-## 🏥 MEDRIBA — AI Disease Prediction
+### 🏥 MEDRIBA — AI Disease Prediction
 
-👉 Predicts diabetes & heart risk using ML + LLMs
-👉 Includes **confidence-based decision support**
-
-## 🤖 MEDIKA — AI Medical Assistant
-
-👉 Context-aware chatbot for diseases, treatment & prevention
-👉 Combines **LLMs + Healthcare APIs**
-
-## 📊 Hotstar Data Analysis
-
-👉 Found **user behavior & content trends** from streaming data
-👉 Converted raw data → **business insights**
+* Predicts diabetes & heart risk using ML + LLMs
+* Includes **confidence-based decision support**
+  🔗 https://github.com/beingkabirahmed/MEDRIBA-V2
 
 ---
 
-# 🧩 Currently Building (This is where growth shows)
+### 🤖 MEDIKA — AI Medical Assistant
 
-* 📉 Customer Churn Prediction (ML + Power BI dashboard)
-* 🏏 Cricket Analytics (Tableau + Python insights)
-* 🎵 SQL Business Analysis (real-world queries)
-* 📦 Supply Chain Forecasting (time-series ML)
-* 📈 Marketing Analytics (RFM + segmentation)
+* Context-aware chatbot for disease insights & treatments
+* Built using **LLMs + Healthcare APIs**
+  🔗 https://github.com/beingkabirahmed/MEDIKA
+
+---
+
+### 📊 Hotstar Data Analysis
+
+* Found **user behavior & content trends**
+* Delivered actionable **business insights**
+  🔗 https://github.com/beingkabirahmed/Hotstar-Data-Analysis
+
+---
+
+# 🧩 Currently Building
+
+* 📉 Customer Churn Prediction (ML + Power BI)
+* 🏏 Cricket Analytics (Tableau + Python)
+* 🎵 SQL Business Analysis
+* 📦 Supply Chain Forecasting
+* 📈 Marketing Analytics
 
 ---
 
@@ -109,10 +126,10 @@ Git • GitHub • Jupyter • VS Code • Google Colab
 **Data Science & ML Intern — Nexus Core Innovation**
 📍 Bengaluru | Feb 2026 – May 2026
 
-* Built **ML pipelines from scratch**
-* Performed deep **EDA & visualization**
-* Delivered **data-driven insights to stakeholders**
-* Used real evaluation metrics: Accuracy, F1, Confusion Matrix
+* Built ML pipelines from scratch
+* Performed EDA & visualization
+* Delivered insights to stakeholders
+* Used Accuracy, F1-score, Confusion Matrix
 
 ---
 
@@ -121,6 +138,7 @@ Git • GitHub • Jupyter • VS Code • Google Colab
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=beingkabirahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingkabirahmed&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
@@ -129,7 +147,7 @@ Git • GitHub • Jupyter • VS Code • Google Colab
 
 # 🏆 Achievements
 
-* 🥈 Web Designing Runner-Up — SYNTAXIA Tech Fest
+* 🥈 Runner-Up — Web Designing (SYNTAXIA Tech Fest)
 * 🏐 Volleyball Winner & Runner-Up
 * 🤖 Amazon ML Challenge Participant
 
@@ -137,17 +155,33 @@ Git • GitHub • Jupyter • VS Code • Google Colab
 
 # 📜 Certifications
 
-* Data Analyst — Nirmann
+* Data Analyst — Nirmann Organisation
 * Python Developer — HOPE Foundation
-* Power BI + Tableau + DSA — In Progress
+* Power BI, Tableau, DSA — In Progress
 
 ---
 
 # 📫 Let’s Connect
 
-* 📧 [beingkabirahmed@gmail.com](mailto:beingkabirahmed@gmail.com)
-* 💼 LinkedIn: /beingkabirahmed
-* 🌐 Portfolio: beingkabirahmed.netlify.app
+<div align="center">
+
+<a href="mailto:beingkabirahmed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Kabir%20Ahmed-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/beingkabirahmed">
+  <img src="https://img.shields.io/badge/LinkedIn-Kabir%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://beingkabirahmed.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/beingkabirahmed">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -155,7 +189,7 @@ Git • GitHub • Jupyter • VS Code • Google Colab
 
 💡 *“Data is useless until it creates impact.”*
 
-⭐ If you like my work, consider starring a repo!
+⭐ Star a repo if you like my work!
 
 </div>
 
